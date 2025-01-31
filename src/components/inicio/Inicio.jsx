@@ -108,7 +108,7 @@ const Inicio = () => {
 
         <motion.div variants={gridElementVariants} initial="hidden" animate="show" transition={gridElementTransition} style={{textAlign:'center', display:'flex', flexDirection:'column', justifyContent:'center', alignItems:'center'}}>
             <h1 style={{marginBottom:'0', color:'whitesmoke'}}>Mis proyectos</h1>
-            <p style={{color:'whitesmoke'}}>Aquí pueden ver una colección de los proyectos en los que he trabajado</p>
+            <p style={{color:'whitesmoke'}}>Aquí pueden ver una colección de los proyectos en los que he trabajado (dar click a las imágenes para ver más información)</p>
 
             <motion.div variants={gridElementVariants} initial="hidden" animate="show" transition={gridElementTransition} id='container-projects'>
                 <div className='card-project'>

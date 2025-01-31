@@ -5,9 +5,13 @@
     margin-top: 100px;
     margin-bottom: 40px;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 25px;
     color: black;
 }
 img{
-    width: 40px;
+    width: 55px;
+    transition: transform .2s ease-in-out;
+}
+img:hover{
+    transform: scale(1.2);
 }
