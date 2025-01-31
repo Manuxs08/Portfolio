@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "Octosquares";
+    src: url(./fonts/TT_Octosquares_Trial_ExtraLight.ttf) format('truetype');
+}
+*{
+    font-family: "Octosquares";
+}
