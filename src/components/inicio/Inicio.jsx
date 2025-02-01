@@ -79,6 +79,7 @@ const Inicio = () => {
                         <div className='card-wrapper'><img src="/pixel5.png" alt="" /></div>
                         <div className='card-wrapper'><img src="/pixel6.png" alt="" /></div>
                         <div className='card-wrapper'><img src="/pixel7.png" alt="" /></div>
+                        <div className='card-wrapper'><img src="/pixel8.png" alt="" /></div>
                     </div>
                 )
         }
