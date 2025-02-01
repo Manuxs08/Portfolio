@@ -8,10 +8,10 @@
     font-size: 25px;
     color: black;
 }
-img{
+.icon-footer{
     width: 55px;
     transition: transform .2s ease-in-out;
 }
-img:hover{
+.icon-footer:hover{
     transform: scale(1.2);
 }
